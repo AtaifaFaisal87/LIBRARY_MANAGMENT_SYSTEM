@@ -1,0 +1,12 @@
+release/main.o
+release/mainwindow.o
+release/loginwindow.o
+release/registerdialog.o
+release/userdashboard.o
+release/librariandashboard.o
+release/library_core.o
+release/moc_mainwindow.o
+release/moc_loginwindow.o
+release/moc_registerdialog.o
+release/moc_userdashboard.o
+release/moc_librariandashboard.o

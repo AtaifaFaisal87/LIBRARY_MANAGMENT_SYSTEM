@@ -1,0 +1,12 @@
+debug/main.o
+debug/mainwindow.o
+debug/loginwindow.o
+debug/registerdialog.o
+debug/userdashboard.o
+debug/librariandashboard.o
+debug/library_core.o
+debug/moc_mainwindow.o
+debug/moc_loginwindow.o
+debug/moc_registerdialog.o
+debug/moc_userdashboard.o
+debug/moc_librariandashboard.o
