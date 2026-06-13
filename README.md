@@ -1,5 +1,7 @@
 # Library Management System - Header File Division
 
+![Banner](https://github.com/AtaifaFaisal87/LIBRARY_MANAGMENT_SYSTEM/blob/main/lms_thumbnail.png)
+
 ## Quick Start
 
 ### Using Make (Recommended)
